@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="list-page">
+  <h1>{{ .Title | default "Writing" }}</h1>
+  {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+
+  {{ partial "tag-cloud.html" . }}
+
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="post-summary">
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    <div class="post-tags">
+      {{ range .Params.tags }}<a href="/tags/{{ . | urlize }}/" class="tag">#{{ . }}</a> {{ end }}
+    </div>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

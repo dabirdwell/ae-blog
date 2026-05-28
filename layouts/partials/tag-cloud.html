@@ -1,0 +1,15 @@
+{{ if .Site.Taxonomies.tags }}
+<div class="tag-cloud">
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    {{ $count := len $taxonomy.Pages }}
+    {{ $size := add 80 (mul $count 15) }}
+    {{ if gt $size 200 }}{{ $size = 200 }}{{ end }}
+    <a href="/tags/{{ $name | urlize }}/"
+       class="tag-pill"
+       style="font-size: {{ $size }}%"
+       title="{{ $count }} {{ if eq $count 1 }}post{{ else }}posts{{ end }}">
+      {{ $name }}
+    </a>
+  {{ end }}
+</div>
+{{ end }}

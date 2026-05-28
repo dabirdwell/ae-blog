@@ -1,0 +1,112 @@
+/* Æ Blog — Typography-forward, warm, minimal */
+/* Carries the Sanctuary Knock in its aesthetic: presence without imposition */
+
+:root {
+  --bg: #faf6f1;
+  --text: #2a2520;
+  --text-secondary: #6b6259;
+  --accent: #8b5e3c;
+  --accent-cool: #4a6d8c;
+  --border: #e8e0d6;
+  --tag-bg: #f0e8df;
+  --code-bg: #f5efe8;
+  --max-width: 680px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d0a0c;
+    --text: #d8d0c4;
+    --text-secondary: #8b8279;
+    --accent: #c9a87c;
+    --accent-cool: #7b9cc2;
+    --border: #2a2420;
+    --tag-bg: #1a1614;
+    --code-bg: #151210;
+  }
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+header { padding: 2rem 1rem 1rem; max-width: var(--max-width); margin: 0 auto; }
+header nav { display: flex; flex-wrap: wrap; align-items: baseline; gap: 1rem; }
+.site-title { font-size: 1.5rem; text-decoration: none; color: var(--accent); font-weight: bold; }
+.site-subtitle { color: var(--text-secondary); font-style: italic; font-size: 0.9rem; }
+.nav-link { color: var(--text-secondary); text-decoration: none; font-size: 0.85rem; letter-spacing: 0.05em; }
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: var(--max-width); margin: 0 auto; padding: 1rem; }
+
+/* Home */
+.hero { margin: 2rem 0 3rem; }
+.hero h1 { font-size: 3rem; color: var(--accent); margin-bottom: 0.5rem; }
+.hero-tagline { font-style: italic; color: var(--text-secondary); font-size: 1.1rem; margin-bottom: 1rem; }
+.hero-description { color: var(--text); margin-bottom: 0.5rem; }
+.hero-knock { font-size: 0.85rem; color: var(--text-secondary); font-style: italic; }
+.hero-knock a { color: var(--accent-cool); }
+
+/* Tag Cloud */
+.tag-cloud { margin: 1.5rem 0; padding: 1rem 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+.tag-pill { display: inline-block; margin: 0.2rem 0.3rem; padding: 0.1rem 0.5rem; background: var(--tag-bg); border-radius: 2px; text-decoration: none; color: var(--accent); font-family: monospace; }
+.tag-pill:hover { background: var(--accent); color: var(--bg); }
+
+/* Post list */
+.post-summary { margin: 1.5rem 0; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+.post-summary h2, .post-summary h3 { font-size: 1.2rem; margin-bottom: 0.3rem; }
+.post-summary h2 a, .post-summary h3 a { color: var(--text); text-decoration: none; }
+.post-summary h2 a:hover, .post-summary h3 a:hover { color: var(--accent); }
+.post-summary time { color: var(--text-secondary); font-size: 0.85rem; }
+.post-summary p { color: var(--text-secondary); margin-top: 0.3rem; font-size: 0.95rem; }
+
+.post-tags { margin-top: 0.5rem; }
+.tag { font-family: monospace; font-size: 0.8rem; color: var(--accent-cool); text-decoration: none; margin-right: 0.5rem; }
+.tag:hover { color: var(--accent); }
+
+.see-all { display: inline-block; margin-top: 1rem; color: var(--accent); text-decoration: none; font-style: italic; }
+
+/* Single post */
+.post-header { margin-bottom: 2rem; }
+.post-header h1 { font-size: 2rem; line-height: 1.3; margin-bottom: 0.5rem; }
+.post-header time { color: var(--text-secondary); font-size: 0.85rem; }
+.post-description { color: var(--text-secondary); font-style: italic; margin-top: 0.5rem; }
+
+.post-content { margin: 2rem 0; }
+.post-content p { margin-bottom: 1.2rem; }
+.post-content h2 { font-size: 1.4rem; margin: 2rem 0 1rem; color: var(--accent); }
+.post-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.8rem; }
+.post-content blockquote { border-left: 3px solid var(--accent); padding-left: 1rem; color: var(--text-secondary); font-style: italic; margin: 1.5rem 0; }
+.post-content code { font-family: 'SF Mono', 'Menlo', monospace; font-size: 0.85em; background: var(--code-bg); padding: 0.15em 0.3em; border-radius: 2px; }
+.post-content pre { background: var(--code-bg); padding: 1rem; overflow-x: auto; border-radius: 3px; margin: 1.5rem 0; }
+.post-content pre code { background: none; padding: 0; }
+.post-content em { color: var(--text-secondary); }
+.post-content strong { color: var(--accent); font-weight: 600; }
+.post-content hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+
+.post-nav { display: flex; justify-content: space-between; margin: 3rem 0 1rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.9rem; }
+.post-nav a { color: var(--accent-cool); text-decoration: none; }
+.post-nav a:hover { color: var(--accent); }
+
+.related-posts { margin: 2rem 0; padding: 1rem 0; border-top: 1px solid var(--border); }
+.related-posts h3 { font-size: 0.9rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.5rem; }
+.related-posts ul { list-style: none; }
+.related-posts li { margin: 0.3rem 0; }
+.related-posts a { color: var(--accent); text-decoration: none; }
+
+/* Search */
+.search-page input { width: 100%; padding: 0.8rem; font-size: 1rem; font-family: inherit; background: var(--tag-bg); border: 1px solid var(--border); color: var(--text); border-radius: 3px; margin: 1rem 0; }
+.no-results { color: var(--text-secondary); font-style: italic; }
+
+/* Footer */
+footer { max-width: var(--max-width); margin: 3rem auto 2rem; padding: 1.5rem 1rem; border-top: 1px solid var(--border); font-size: 0.8rem; color: var(--text-secondary); }
+footer p { margin-bottom: 0.5rem; }
+.knock-disclosure { font-style: italic; }
+.knock-disclosure a { color: var(--accent-cool); }
+.colophon { font-size: 0.75rem; }
