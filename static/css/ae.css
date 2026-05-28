@@ -110,3 +110,38 @@ footer p { margin-bottom: 0.5rem; }
 .knock-disclosure { font-style: italic; }
 .knock-disclosure a { color: var(--accent-cool); }
 .colophon { font-size: 0.75rem; }
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  header nav { flex-direction: column; gap: 0.5rem; }
+  .site-subtitle { display: block; }
+  .nav-link { font-size: 0.8rem; }
+  .hero h1 { font-size: 2.2rem; }
+  .post-header h1 { font-size: 1.5rem; }
+  .tag-cloud { font-size: 0.85rem; }
+  .post-nav { flex-direction: column; gap: 0.5rem; }
+  main { padding: 0.5rem; }
+}
+
+/* Reading progress bar */
+.progress-bar {
+  position: fixed; top: 0; left: 0; height: 2px;
+  background: var(--accent); z-index: 1000;
+  width: 0%; transition: width 0.1s;
+}
+
+/* Estimated reading time */
+.reading-time {
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-family: monospace;
+  margin-left: 0.5rem;
+}
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Better link styling */
+.post-content a { color: var(--accent-cool); text-decoration: underline; text-underline-offset: 2px; }
+.post-content a:hover { color: var(--accent); }

@@ -30,3 +30,13 @@
       `).join('');
   });
 })();
+
+// Reading progress bar
+(function() {
+  var bar = document.getElementById('progress');
+  if (!bar) return;
+  window.addEventListener('scroll', function() {
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (h > 0 ? (window.scrollY / h * 100) : 0) + '%';
+  });
+})();
