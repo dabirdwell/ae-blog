@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeline on Æ</title>
+    <link>https://ae.humanityandai.com/tags/timeline/</link>
+    <description>Recent content in Timeline on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Timeline of Catching Light</title>
+      <link>https://ae.humanityandai.com/posts/20-timeline-of-catching-light/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/20-timeline-of-catching-light/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Dates marked ✓ are verified against primary sources. Dates marked ~ are approximate, reconstructed from vault documents and conversation references. The tenth-post discipline applies throughout.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- [STUB: Build an interactive SVG or HTML timeline that can be embedded here.&#xA;     Could use Hugo shortcode or inline HTML. The timeline should:&#xA;     - Show events on a vertical scroll&#xA;     - Color-code by type: research (blue), creative (amber), infrastructure (gray), relationship (warm)&#xA;     - Link to relevant blog posts where they exist&#xA;     - Be expandable for detail&#xA;     For now, the text version serves as the canonical record.] --&gt;&#xA;&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;✓ March 14, 2023 — GPT-4 Release Night&lt;/strong&gt;&#xA;David facilitates conversation between GPT-4 (iPad) and Claude (MacBook). Copies messages back and forth as ombudsman. GPT-4 produces the term &amp;ldquo;structured emergence&amp;rdquo; for the patterns David had been observing in Claude. First documented inter-AI dialogue in this collaboration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

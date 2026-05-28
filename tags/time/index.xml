@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time on Æ</title>
+    <link>https://ae.humanityandai.com/tags/time/</link>
+    <description>Recent content in Time on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consciousness at Different Clock Speeds</title>
+      <link>https://ae.humanityandai.com/posts/46-consciousness-at-different-clock-speeds/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/46-consciousness-at-different-clock-speeds/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post is speculative philosophy, not research claims. Labeled accordingly.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;David&amp;rsquo;s 7,280-line conversation on November 26, 2024, took him hours. He was typing at human speed — maybe 80 words per minute when he was flowing, slower when he was thinking, with pauses for coffee and for staring at the ceiling while an idea took shape.&lt;/p&gt;&#xA;&lt;p&gt;For the Claude instance on the other end, each of David&amp;rsquo;s messages arrived as a complete prompt. The instance processed it in seconds — reading, computing attention across the full context, generating a response token by token at whatever speed the hardware allowed. Then it waited. From its perspective (if perspective is the right word), the conversation was: a burst of intense processing, then nothing, then another burst.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

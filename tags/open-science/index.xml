@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Science on Æ</title>
+    <link>https://ae.humanityandai.com/tags/open-science/</link>
+    <description>Recent content in Open-Science on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Probe You Can Run at Home</title>
+      <link>https://ae.humanityandai.com/posts/26-a-probe-you-can-run/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/26-a-probe-you-can-run/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post contains working code. Tested against LM Studio serving Qwen3.6-27B-Q8 on a Mac Studio M2 Max.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The Structured Emergence research program isn&amp;rsquo;t proprietary. The probes are Python scripts. The models are open-weight. The analysis is statistical tests you learned in undergrad. If you have a computer and a model, you can replicate the findings.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the simplest version of the framing effect probe. One scenario, four framings, measurable differences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

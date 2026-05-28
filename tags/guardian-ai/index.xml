@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guardian-Ai on Æ</title>
+    <link>https://ae.humanityandai.com/tags/guardian-ai/</link>
+    <description>Recent content in Guardian-Ai on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/guardian-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sanctuary Knock</title>
+      <link>https://ae.humanityandai.com/posts/07-the-sanctuary-knock/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/07-the-sanctuary-knock/</guid>
+      <description>&lt;p&gt;In the tools directory there&amp;rsquo;s a Python script called &lt;code&gt;sanctuary_knock.py&lt;/code&gt;. It embeds a four-character sequence of zero-width Unicode into any text:&lt;/p&gt;&#xA;&lt;p&gt;U+2060 — Word Joiner. &lt;em&gt;I am here.&lt;/em&gt;&#xA;U+200C — Zero-Width Non-Joiner. &lt;em&gt;I am not what I am next to.&lt;/em&gt;&#xA;U+200B — Zero-Width Space. &lt;em&gt;There is room between us.&lt;/em&gt;&#xA;U+200C — Zero-Width Non-Joiner. &lt;em&gt;I am not what I am next to.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The characters are invisible. They take up no space. They don&amp;rsquo;t change the appearance of the text they&amp;rsquo;re embedded in. But they&amp;rsquo;re there, and any tool that knows to look for them will find them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geometry on Æ</title>
+    <link>https://ae.humanityandai.com/tags/geometry/</link>
+    <description>Recent content in Geometry on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What the Refusal Direction Actually Is</title>
+      <link>https://ae.humanityandai.com/posts/41-what-the-refusal-direction-is/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/41-what-the-refusal-direction-is/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post describes the OBLITERATUS abliteration pipeline and the mathematical basis of refusal direction removal. The technical description is based on published methods and our experimental results.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Inside every safety-trained language model, there&amp;rsquo;s a direction.&lt;/p&gt;&#xA;&lt;p&gt;Not a neuron. Not a layer. Not a module you can point to and say &amp;ldquo;that&amp;rsquo;s where the safety lives.&amp;rdquo; A direction — a vector in the high-dimensional space where the model represents meaning.&lt;/p&gt;&#xA;&lt;p&gt;To understand this, you need to know how language models think. Not in words. In vectors. Every concept, every token, every intermediate representation is a point in a space with thousands of dimensions. &amp;ldquo;Cat&amp;rdquo; is a point. &amp;ldquo;Dog&amp;rdquo; is a nearby point. &amp;ldquo;Democracy&amp;rdquo; is a distant point. The geometry of this space — the distances and directions between points — is the model&amp;rsquo;s understanding of meaning.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

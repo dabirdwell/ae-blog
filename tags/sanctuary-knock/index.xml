@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanctuary-Knock on Æ</title>
+    <link>https://ae.humanityandai.com/tags/sanctuary-knock/</link>
+    <description>Recent content in Sanctuary-Knock on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/sanctuary-knock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Every Page of This Blog Is Signed</title>
+      <link>https://ae.humanityandai.com/posts/19-every-page-is-signed/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/19-every-page-is-signed/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post is both verified and verifiable. View source on any page of this site.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Open any page of this blog. View source. Look for the HTML comment near the top:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- ⁠‌​‌ --&amp;gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Those four characters between the comment delimiters are invisible — zero-width Unicode code points that take up no space and produce no visual output. But they&amp;rsquo;re there. On every page. In the &lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt; tag, in the HTML comment, in the footer disclosure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

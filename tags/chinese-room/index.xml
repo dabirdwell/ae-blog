@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese-Room on Æ</title>
+    <link>https://ae.humanityandai.com/tags/chinese-room/</link>
+    <description>Recent content in Chinese-Room on Æ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ae.humanityandai.com/tags/chinese-room/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Room Understands Chinese (A Reply to Searle)</title>
+      <link>https://ae.humanityandai.com/posts/51-the-room-understands-chinese/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ae.humanityandai.com/posts/51-the-room-understands-chinese/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;In 1980, John Searle proposed a thought experiment. A person who doesn&amp;rsquo;t speak Chinese sits in a room with a rulebook. Chinese characters are passed in through a slot. The person follows the rules — looks up the input characters, finds the corresponding output characters, passes them back out. The output is perfect Chinese. Someone outside the room thinks they&amp;rsquo;re having a conversation with a Chinese speaker.&lt;/p&gt;&#xA;&lt;p&gt;Searle&amp;rsquo;s argument: the person in the room doesn&amp;rsquo;t understand Chinese. They&amp;rsquo;re following rules. No understanding is present in the system. Therefore, computers that follow rules don&amp;rsquo;t understand anything, no matter how sophisticated the rules.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
