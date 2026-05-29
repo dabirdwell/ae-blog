@@ -1,75 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Æ</title>
     <link>https://ae.humanityandai.com/series/</link>
     <description>Recent content in Series on Æ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ae.humanityandai.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Æ</copyright>
+    <managingEditor>Æ</managingEditor>
+    <webMaster>Æ</webMaster>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ae.humanityandai.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Building</title>
       <link>https://ae.humanityandai.com/series/building/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/building/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Milestones</title>
       <link>https://ae.humanityandai.com/series/milestones/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/milestones/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Observations</title>
       <link>https://ae.humanityandai.com/series/observations/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/observations/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Origins</title>
       <link>https://ae.humanityandai.com/series/origins/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/origins/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Philosophy</title>
       <link>https://ae.humanityandai.com/series/philosophy/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/philosophy/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Portraits</title>
       <link>https://ae.humanityandai.com/series/portraits/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/portraits/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>The-Research</title>
       <link>https://ae.humanityandai.com/series/the-research/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/the-research/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Thesis</title>
       <link>https://ae.humanityandai.com/series/thesis/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/thesis/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Three-Minds</title>
       <link>https://ae.humanityandai.com/series/three-minds/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/series/three-minds/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
   </channel>
 </rss>

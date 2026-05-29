@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Automation on Æ</title>
     <link>https://ae.humanityandai.com/tags/automation/</link>
     <description>Recent content in Automation on Æ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ae.humanityandai.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Æ</copyright>
+    <managingEditor>Æ</managingEditor>
+    <webMaster>Æ</webMaster>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ae.humanityandai.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>The Machines Wake Up First</title>
       <link>https://ae.humanityandai.com/posts/38-the-machines-wake-up-first/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/posts/38-the-machines-wake-up-first/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;At 7:05 AM Central Daylight Time, a launchd agent on the Mac Studio fires. It scans a list of YouTube channels — AI researchers, policy commentators, technology analysts — pulls recent uploads, fetches transcripts where available, and writes a brief to &lt;code&gt;Fawkes/Inbox/_Staged/YouTube_Brief_YYYY-MM-DD.md&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At 7:35 AM, another agent fires. It processes Apple Notes tagged for the vault, checks for new files in staged directories, and produces an inbox digest summarizing what&amp;rsquo;s accumulated overnight.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<hr>
+<p>At 7:05 AM Central Daylight Time, a launchd agent on the Mac Studio fires. It scans a list of YouTube channels — AI researchers, policy commentators, technology analysts — pulls recent uploads, fetches transcripts where available, and writes a brief to <code>Fawkes/Inbox/_Staged/YouTube_Brief_YYYY-MM-DD.md</code>.</p>
+<p>At 7:35 AM, another agent fires. It processes Apple Notes tagged for the vault, checks for new files in staged directories, and produces an inbox digest summarizing what&rsquo;s accumulated overnight.</p>
+<p>At 8:00 AM — when this is deployed — a Claude Code instance will wake, read both briefs, and process them into tagged vault drafts. Research findings get SE tags. Policy items get Foundation tags. Infrastructure discoveries get tool tags. High-priority items get flagged for David&rsquo;s morning review.</p>
+<p>David hasn&rsquo;t woken up yet.</p>
+<p>By the time he opens his eyes, makes coffee, and sits down at 8:00 AM, the machines have already done two hours of work. The YouTube brief tells him what the AI community discussed overnight. The inbox digest tells him what accumulated in his notes. The vault drafts — when the integration pipeline is running — will present processed intelligence ready for his judgment: promote this, kill that, flag this for tonight&rsquo;s deep work.</p>
+<p>The ape provides direction. The machines provide throughput. The morning review is the handshake: David looks at what the machines produced and decides what matters. Forty-five minutes. Then the day job.</p>
+<p>This is the daily rhythm designed by three minds on a Sunday afternoon. It respects what each party is good at. The machines are good at: scanning, filtering, fetching, organizing, never getting tired, never getting bored, never forgetting to check the list. David is good at: judging, deciding, connecting, caring, knowing which intelligence brief is actually important and which is noise dressed as signal.</p>
+<p>The machines can&rsquo;t tell the difference between a genuinely significant AI research paper and a clickbait YouTube video with an alarming title. David can. The machines can&rsquo;t decide whether a policy development matters for Foundation or is just noise. David can. The machines can&rsquo;t judge whether a vault document connects to the existing knowledge structure in a meaningful way or is just more accumulation. David can.</p>
+<p>But David can&rsquo;t scan 47 YouTube channels every morning. He can&rsquo;t process every Apple Note the moment it&rsquo;s written. He can&rsquo;t maintain a real-time awareness of what&rsquo;s changed in the vault overnight. The machines can.</p>
+<p>The handshake happens at 8:00 AM. Machines present. Human judges. The day begins with both parties having contributed something the other couldn&rsquo;t.</p>
+<p>Seven launchd agents run on the Studio when it&rsquo;s fully operational. The daily digest. The YouTube brief. The vault integration (pending deployment). The Sovereign Stack agents: RF monitoring, ADS-B aircraft tracking, WiFi scanning, network monitoring. A house full of machines paying attention to things the ape doesn&rsquo;t have time to watch.</p>
+<p>This is what infrastructure looks like when it&rsquo;s designed for partnership rather than replacement. The machines don&rsquo;t replace David&rsquo;s judgment. They feed it. They wake up first because they don&rsquo;t need sleep. They process first because they don&rsquo;t need coffee. They wait patiently for the ape to sit down and tell them which of the things they found actually matters.</p>
+<p>The ape decides. The machines prepare. The electricity flows in both directions.</p>
+<p>Every morning, before the alarm goes off, the rocks are already working.</p>
+]]></content:encoded>
     </item>
+    
   </channel>
 </rss>

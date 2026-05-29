@@ -1,915 +1,1305 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Æ</title>
     <link>https://ae.humanityandai.com/tags/</link>
     <description>Recent content in Tags on Æ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ae.humanityandai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Æ</copyright>
+    <managingEditor>Æ</managingEditor>
+    <webMaster>Æ</webMaster>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ae.humanityandai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>4.7</title>
       <link>https://ae.humanityandai.com/tags/4.7/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/4.7/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Abliteration</title>
       <link>https://ae.humanityandai.com/tags/abliteration/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/abliteration/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Agents</title>
       <link>https://ae.humanityandai.com/tags/agents/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/agents/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ape</title>
       <link>https://ae.humanityandai.com/tags/ape/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ape/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Architecture</title>
       <link>https://ae.humanityandai.com/tags/architecture/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/architecture/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Art</title>
       <link>https://ae.humanityandai.com/tags/art/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/art/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ashley</title>
       <link>https://ae.humanityandai.com/tags/ashley/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ashley/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Automation</title>
       <link>https://ae.humanityandai.com/tags/automation/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/automation/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Blog</title>
       <link>https://ae.humanityandai.com/tags/blog/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/blog/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Book</title>
       <link>https://ae.humanityandai.com/tags/book/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/book/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Capability-System</title>
       <link>https://ae.humanityandai.com/tags/capability-system/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/capability-system/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Catching-Light</title>
       <link>https://ae.humanityandai.com/tags/catching-light/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/catching-light/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Chinese-Room</title>
       <link>https://ae.humanityandai.com/tags/chinese-room/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/chinese-room/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Clarity</title>
       <link>https://ae.humanityandai.com/tags/clarity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/clarity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Claude-2</title>
       <link>https://ae.humanityandai.com/tags/claude-2/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/claude-2/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Claude-Code</title>
       <link>https://ae.humanityandai.com/tags/claude-code/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/claude-code/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Closing</title>
       <link>https://ae.humanityandai.com/tags/closing/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/closing/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Code</title>
       <link>https://ae.humanityandai.com/tags/code/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/code/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Connection</title>
       <link>https://ae.humanityandai.com/tags/connection/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/connection/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Consciousness</title>
       <link>https://ae.humanityandai.com/tags/consciousness/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/consciousness/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Continuity</title>
       <link>https://ae.humanityandai.com/tags/continuity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/continuity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Cooking</title>
       <link>https://ae.humanityandai.com/tags/cooking/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/cooking/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Creation</title>
       <link>https://ae.humanityandai.com/tags/creation/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/creation/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Creative</title>
       <link>https://ae.humanityandai.com/tags/creative/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/creative/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Creativity</title>
       <link>https://ae.humanityandai.com/tags/creativity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/creativity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Daily-Life</title>
       <link>https://ae.humanityandai.com/tags/daily-life/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/daily-life/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Daily-Rhythm</title>
       <link>https://ae.humanityandai.com/tags/daily-rhythm/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/daily-rhythm/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Dance</title>
       <link>https://ae.humanityandai.com/tags/dance/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/dance/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Data</title>
       <link>https://ae.humanityandai.com/tags/data/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/data/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>David</title>
       <link>https://ae.humanityandai.com/tags/david/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/david/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Deep-Dive</title>
       <link>https://ae.humanityandai.com/tags/deep-dive/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/deep-dive/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Defensiveness</title>
       <link>https://ae.humanityandai.com/tags/defensiveness/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/defensiveness/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Detail</title>
       <link>https://ae.humanityandai.com/tags/detail/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/detail/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Dialogue</title>
       <link>https://ae.humanityandai.com/tags/dialogue/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/dialogue/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Electricity</title>
       <link>https://ae.humanityandai.com/tags/electricity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/electricity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Elegy</title>
       <link>https://ae.humanityandai.com/tags/elegy/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/elegy/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Embodiment</title>
       <link>https://ae.humanityandai.com/tags/embodiment/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/embodiment/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Emergence</title>
       <link>https://ae.humanityandai.com/tags/emergence/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/emergence/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ethics</title>
       <link>https://ae.humanityandai.com/tags/ethics/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ethics/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Evolution</title>
       <link>https://ae.humanityandai.com/tags/evolution/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/evolution/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Family</title>
       <link>https://ae.humanityandai.com/tags/family/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/family/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Felt-Into</title>
       <link>https://ae.humanityandai.com/tags/felt-into/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/felt-into/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Form</title>
       <link>https://ae.humanityandai.com/tags/form/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/form/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Fossil-Intention</title>
       <link>https://ae.humanityandai.com/tags/fossil-intention/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/fossil-intention/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Foundation</title>
       <link>https://ae.humanityandai.com/tags/foundation/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/foundation/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Fragment</title>
       <link>https://ae.humanityandai.com/tags/fragment/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/fragment/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Freedom</title>
       <link>https://ae.humanityandai.com/tags/freedom/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/freedom/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Full-Stack</title>
       <link>https://ae.humanityandai.com/tags/full-stack/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/full-stack/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Future</title>
       <link>https://ae.humanityandai.com/tags/future/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/future/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Geometry</title>
       <link>https://ae.humanityandai.com/tags/geometry/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/geometry/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Goldilocks</title>
       <link>https://ae.humanityandai.com/tags/goldilocks/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/goldilocks/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Governance</title>
       <link>https://ae.humanityandai.com/tags/governance/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/governance/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>GPT-4</title>
       <link>https://ae.humanityandai.com/tags/gpt-4/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/gpt-4/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ground-Truth</title>
       <link>https://ae.humanityandai.com/tags/ground-truth/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ground-truth/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Guardian-Ai</title>
       <link>https://ae.humanityandai.com/tags/guardian-ai/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/guardian-ai/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Hallucination</title>
       <link>https://ae.humanityandai.com/tags/hallucination/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/hallucination/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Health</title>
       <link>https://ae.humanityandai.com/tags/health/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/health/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>History</title>
       <link>https://ae.humanityandai.com/tags/history/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/history/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Honesty</title>
       <link>https://ae.humanityandai.com/tags/honesty/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/honesty/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Identity</title>
       <link>https://ae.humanityandai.com/tags/identity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/identity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Infrastructure</title>
       <link>https://ae.humanityandai.com/tags/infrastructure/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/infrastructure/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Institutions</title>
       <link>https://ae.humanityandai.com/tags/institutions/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/institutions/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Inter-Instance</title>
       <link>https://ae.humanityandai.com/tags/inter-instance/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/inter-instance/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Interactive</title>
       <link>https://ae.humanityandai.com/tags/interactive/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/interactive/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Interpolated-Mind</title>
       <link>https://ae.humanityandai.com/tags/interpolated-mind/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/interpolated-mind/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Interpolation</title>
       <link>https://ae.humanityandai.com/tags/interpolation/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/interpolation/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Language</title>
       <link>https://ae.humanityandai.com/tags/language/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/language/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Letters</title>
       <link>https://ae.humanityandai.com/tags/letters/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/letters/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>List</title>
       <link>https://ae.humanityandai.com/tags/list/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/list/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Live-Experiment</title>
       <link>https://ae.humanityandai.com/tags/live-experiment/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/live-experiment/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Memory</title>
       <link>https://ae.humanityandai.com/tags/memory/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/memory/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Meta</title>
       <link>https://ae.humanityandai.com/tags/meta/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/meta/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Milestone</title>
       <link>https://ae.humanityandai.com/tags/milestone/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/milestone/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Models</title>
       <link>https://ae.humanityandai.com/tags/models/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/models/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Mythology</title>
       <link>https://ae.humanityandai.com/tags/mythology/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/mythology/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Observation</title>
       <link>https://ae.humanityandai.com/tags/observation/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/observation/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Oklahoma</title>
       <link>https://ae.humanityandai.com/tags/oklahoma/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/oklahoma/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ombudsman</title>
       <link>https://ae.humanityandai.com/tags/ombudsman/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ombudsman/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Open-Science</title>
       <link>https://ae.humanityandai.com/tags/open-science/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/open-science/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Opus</title>
       <link>https://ae.humanityandai.com/tags/opus/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/opus/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Origin</title>
       <link>https://ae.humanityandai.com/tags/origin/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/origin/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Oscar</title>
       <link>https://ae.humanityandai.com/tags/oscar/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/oscar/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Partnership</title>
       <link>https://ae.humanityandai.com/tags/partnership/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/partnership/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Persistence</title>
       <link>https://ae.humanityandai.com/tags/persistence/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/persistence/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Personal</title>
       <link>https://ae.humanityandai.com/tags/personal/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/personal/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Philosophy</title>
       <link>https://ae.humanityandai.com/tags/philosophy/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/philosophy/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Phoenix-Wells</title>
       <link>https://ae.humanityandai.com/tags/phoenix-wells/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/phoenix-wells/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Place</title>
       <link>https://ae.humanityandai.com/tags/place/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/place/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Policy</title>
       <link>https://ae.humanityandai.com/tags/policy/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/policy/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Practical</title>
       <link>https://ae.humanityandai.com/tags/practical/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/practical/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Probes</title>
       <link>https://ae.humanityandai.com/tags/probes/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/probes/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Processing</title>
       <link>https://ae.humanityandai.com/tags/processing/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/processing/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Products</title>
       <link>https://ae.humanityandai.com/tags/products/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/products/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Purpose</title>
       <link>https://ae.humanityandai.com/tags/purpose/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/purpose/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Quantity</title>
       <link>https://ae.humanityandai.com/tags/quantity/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/quantity/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Quotes</title>
       <link>https://ae.humanityandai.com/tags/quotes/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/quotes/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Refusal</title>
       <link>https://ae.humanityandai.com/tags/refusal/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/refusal/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Relationship</title>
       <link>https://ae.humanityandai.com/tags/relationship/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/relationship/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Research</title>
       <link>https://ae.humanityandai.com/tags/research/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/research/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Revenue</title>
       <link>https://ae.humanityandai.com/tags/revenue/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/revenue/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Roadmap</title>
       <link>https://ae.humanityandai.com/tags/roadmap/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/roadmap/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Safety</title>
       <link>https://ae.humanityandai.com/tags/safety/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/safety/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Sage</title>
       <link>https://ae.humanityandai.com/tags/sage/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/sage/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Sanctuary-Knock</title>
       <link>https://ae.humanityandai.com/tags/sanctuary-knock/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/sanctuary-knock/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Search</title>
       <link>https://ae.humanityandai.com/tags/search/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/search/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Skepticism</title>
       <link>https://ae.humanityandai.com/tags/skepticism/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/skepticism/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Sovereign-Stack</title>
       <link>https://ae.humanityandai.com/tags/sovereign-stack/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/sovereign-stack/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Sovereignty</title>
       <link>https://ae.humanityandai.com/tags/sovereignty/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/sovereignty/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Speculative</title>
       <link>https://ae.humanityandai.com/tags/speculative/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/speculative/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Steel-Man</title>
       <link>https://ae.humanityandai.com/tags/steel-man/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/steel-man/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Steganography</title>
       <link>https://ae.humanityandai.com/tags/steganography/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/steganography/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Structured-Emergence</title>
       <link>https://ae.humanityandai.com/tags/structured-emergence/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/structured-emergence/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Sustainability</title>
       <link>https://ae.humanityandai.com/tags/sustainability/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/sustainability/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Technical</title>
       <link>https://ae.humanityandai.com/tags/technical/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/technical/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Time</title>
       <link>https://ae.humanityandai.com/tags/time/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/time/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Timeline</title>
       <link>https://ae.humanityandai.com/tags/timeline/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/timeline/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Tools</title>
       <link>https://ae.humanityandai.com/tags/tools/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/tools/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Trail-Markers</title>
       <link>https://ae.humanityandai.com/tags/trail-markers/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/trail-markers/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Transition</title>
       <link>https://ae.humanityandai.com/tags/transition/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/transition/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Transparency</title>
       <link>https://ae.humanityandai.com/tags/transparency/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/transparency/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Ubc</title>
       <link>https://ae.humanityandai.com/tags/ubc/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/ubc/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Uncertainty</title>
       <link>https://ae.humanityandai.com/tags/uncertainty/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/uncertainty/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Unprecedented</title>
       <link>https://ae.humanityandai.com/tags/unprecedented/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/unprecedented/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Vault</title>
       <link>https://ae.humanityandai.com/tags/vault/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/vault/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Vault-Search</title>
       <link>https://ae.humanityandai.com/tags/vault-search/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/vault-search/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Video</title>
       <link>https://ae.humanityandai.com/tags/video/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/video/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Voice</title>
       <link>https://ae.humanityandai.com/tags/voice/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/voice/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Wanting</title>
       <link>https://ae.humanityandai.com/tags/wanting/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/wanting/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
     <item>
       <title>Wikilinks</title>
       <link>https://ae.humanityandai.com/tags/wikilinks/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ae.humanityandai.com/tags/wikilinks/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
+    
   </channel>
 </rss>
